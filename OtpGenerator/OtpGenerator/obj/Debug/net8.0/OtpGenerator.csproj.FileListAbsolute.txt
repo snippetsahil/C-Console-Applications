@@ -1,0 +1,14 @@
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\bin\Debug\net8.0\OtpGenerator.exe
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\bin\Debug\net8.0\OtpGenerator.deps.json
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\bin\Debug\net8.0\OtpGenerator.runtimeconfig.json
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\bin\Debug\net8.0\OtpGenerator.dll
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\bin\Debug\net8.0\OtpGenerator.pdb
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.AssemblyInfoInputs.cache
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.AssemblyInfo.cs
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.csproj.CoreCompileInputs.cache
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.dll
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\refint\OtpGenerator.dll
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.pdb
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\OtpGenerator.genruntimeconfig.cache
+C:\Users\91931\source\repos\OtpGenerator\OtpGenerator\obj\Debug\net8.0\ref\OtpGenerator.dll
